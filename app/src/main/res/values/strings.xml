@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">坚果锁屏</string>
+    <string name="sample_device_admin">OneKeyLock</string>
+    <string name="sample_device_admin_description">部分系统撤销此权限之后可以卸载OneKeyLock程序</string>
+</resources>
